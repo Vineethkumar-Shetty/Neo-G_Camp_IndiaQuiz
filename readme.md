@@ -1,0 +1,1 @@
+This is the basic CLI quiz related india , created using basic JS
